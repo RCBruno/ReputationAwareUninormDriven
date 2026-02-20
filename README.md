@@ -1,2 +1,2 @@
 # ReputationAwareUninormDriven
-Methodogy to address these issues in reputation-based consensus algorithms by studying validator reputation behaviour by using intuitionistic fuzzy sets (IFSs) and uninorm aggregation operations (UAOs).
+Reputation-based blockchain consensus framework using Intuitionistic Fuzzy Sets (IFS) and Uninorm Aggregation Operators (UAO). The model computes a dynamic reputation degree and reputation weight to manage validator behaviour under uncertainty, enabling recovery from occasional errors while penalising repeated misbehaviour. The strictness of evaluation is controlled via a tunable parameter (α). The approach maintains linear computational complexity and introduces no additional communication overhead.
