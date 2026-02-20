@@ -8,7 +8,7 @@ Reputation-based blockchain consensus framework using Intuitionistic Fuzzy Sets 
 - Applies a uninorm operator (e.g., Fodor’s uninorm) to aggregate current reputation degree with historical reputation weight.
 - Captures long-term trust dynamics.
 - Reinforces consistent behaviour and penalises repeated misbehaviour.
-## Key Features
+## Key Features
 - Models uncertainty explicitly using IFS theory.
 - Supports reputation recovery after isolated errors.
 - Penalises consecutive faults through uninorm-based reinforcement.
